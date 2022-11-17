@@ -1,8 +1,6 @@
 # dataviz-story-template
-DataVizForAll.org story template using modified Bootstrap
+DataVizForAll.org story using modified Bootstrap
 
 ## Live view (replace with your own published link in Settings > Pages)
-https://datavizforall.github.io/dataviz-story-template/
+https://keelymac32.github.io/Data-Viz-Story/
 
-## Instructions
-Read steps inside the `index.html` file
